@@ -295,10 +295,11 @@ body{
 }
 /* banner */
 .bannerboxout{
-	width: auto;
+	width: 1349px;
 	height: 470px;
 	border-top: 1px solid #2D2E2E;
 	position: relative;
+	margin: 0 auto;
 }
 .banner_middle{
 	margin: 0 auto;
@@ -364,7 +365,7 @@ body{
 	width: 210px;
 	height: 470px;
 	position: absolute;
-	left: 18.7%;
+	left: 80px;
 	background: #333333;
 	top:0;
 	z-index: 4444;
